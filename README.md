@@ -76,5 +76,4 @@
 
 #
 
-![](https://komarev.com/ghpvc/?username=guilhermelemospstyle=for-the-badge&color=5DC0C7)
-
+![](https://komarev.com/ghpvc/?username=guilhermelemosp&style=for-the-badge&color=5DC0C7)
