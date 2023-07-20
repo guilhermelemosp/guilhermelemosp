@@ -12,7 +12,7 @@
 
 * 💼 I'm a Full Stack Developer;
 * 🌎 Born and raised in Vitória/ES 🇧🇷;
-* 📚 Studying **Java** and **Node.JS* to improve my object-oriented programming skills;
+* 📚 Studying **Java** to improve my object-oriented programming skills;
 * 💪🏻 I've been training CrossFit for 8 years. I love the feeling that it gives me when I'm in training;
 * 🧙 I like everything that reminds me of Harry Potter and the Wizard World around it;
 * 🎮 I'm a Gamer. When I'm not coding, you can often find me playing videogames;
@@ -56,13 +56,26 @@
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="sequelize-logo"/>
 </div>
 
-## 🔧 Working in Progress...
+## 🛠️ Working in Progress...
 
 ###
 
 <div align = "center"> 
   <img src="https://img.shields.io/badge/Java-A30701?style=for-the-badge&logo=Java&logoColor=white" alt="java-logo"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript-logo"/>
+  <img src="https://img.shields.io/badge/Flutter-1572B6?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter-logo"/>
+
+</div>
+
+## 📚 Upcoming...
+
+###
+
+<div align = "center"> 
+  <img src="https://img.shields.io/badge/Angular-C21325?style=for-the-badge&logo=angular&logoColor=white" alt="angular-logo"/>
+  <img src="https://img.shields.io/badge/Go-007ACC?style=for-the-badge&logo=go&logoColor=white" alt="go-logo"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="phyton-logo"/>
+
 </div>
 
 ## 📈 GitHub Stats
